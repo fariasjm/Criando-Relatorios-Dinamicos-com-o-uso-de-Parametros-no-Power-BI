@@ -1,1 +1,4 @@
-# Criando-Relatorios-Dinamicos-com-o-uso-de-Parametros-no-Power-BI
+# Criando Relatórios Dinâmicos com o uso de Parâmetros no Power BI
+
+
+
